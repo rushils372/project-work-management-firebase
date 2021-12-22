@@ -16,7 +16,7 @@ export default function Navbar() {
             <ul>
                 <li className="logo">
                     <img src={Temple} alt="logo" />
-                    <span>The Dojo</span>
+                    <span>Simply Manage</span>
                 </li>
 
                 {!user && (
